@@ -1,0 +1,132 @@
+.div {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    transform: translate(550px ,500px);
+}
+
+body {
+    background-color:  #f2f1f1;
+}
+
+.header .container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.container {
+width: 1487px;
+padding-left: 20px;
+padding-right: 20px;
+margin: auto;
+}
+
+.nav-info {
+    display: flex;
+}
+
+.nav-list {
+    margin: 10px;
+    list-style-type: none;
+}
+
+.nav-link {
+text-decoration: none;
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+color: #1F1534;
+opacity: 0.5;
+text-transform: uppercase;
+}
+
+.hero-info {
+width: 493px;
+height: 367px;
+padding: 140px 86px;
+}
+
+
+
+
+
+
+
+
+
+.hero .container {
+    background-image: url("../img/Bitmap.jpg");
+    height: 1298px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+.input {
+    color: red;
+    background-color: #0E8784;
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.hero-text {
+padding: 0;
+margin: 0;
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 72px;
+line-height: 72px;
+color: #FEFCF7;
+margin-bottom: 31px;
+}
+
+.hero-p {
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #FEFCF7;
+mix-blend-mode: normal;
+opacity: 0.8;
+margin-bottom: 56px;
+}
+
+.hero-btn {
+width: 217px;
+height: 56px;
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 25px;
+text-align: center;
+color: #FEFCF7;
+background: #0E8784;
+border-radius: 6px;
+text-decoration: none;
+padding: 15px 31px;
+
+}
